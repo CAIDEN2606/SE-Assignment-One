@@ -58,6 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GeneralInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralInspection.Designer.cs">
+      <DependentUpon>GeneralInspection.cs</DependentUpon>
+    </Compile>
     <Compile Include="InspectStart.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CommentsAction.resx">
       <DependentUpon>CommentsAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralInspection.resx">
+      <DependentUpon>GeneralInspection.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InspectStart.resx">
       <DependentUpon>InspectStart.cs</DependentUpon>
