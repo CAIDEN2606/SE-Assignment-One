@@ -9,3 +9,15 @@ C:\Users\labuj\Source\Repos\CAIDEN2606\SE-Assignment-One\Main\obj\Debug\Main.csp
 C:\Users\labuj\Source\Repos\CAIDEN2606\SE-Assignment-One\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
 C:\Users\labuj\Source\Repos\CAIDEN2606\SE-Assignment-One\Main\obj\Debug\Main.exe
 C:\Users\labuj\Source\Repos\CAIDEN2606\SE-Assignment-One\Main\obj\Debug\Main.pdb
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\bin\Debug\Main.exe.config
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\bin\Debug\Main.exe
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\bin\Debug\Main.pdb
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.CommentsAction.resources
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.GeneralInspection.resources
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.InspectStart.resources
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.exe
+C:\Users\anzor\source\repos\SE-Assignment-One\Main\obj\Debug\Main.pdb
